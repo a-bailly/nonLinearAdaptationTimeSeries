@@ -9,7 +9,8 @@ Information on data file format are detailed there, each line of text file corre
 
 We would like to thanks:
 > Kernel Manifold Alignment for Domain Adaptation. Devis Tuia and Gustau Camps-Valls. PLoS ONE, 2016.
-For making their code available [here](https://github.com/dtuia/KEMA/), on which we based ours.
+
+For making their code available [here](https://github.com/dtuia/KEMA/).
 
 ## License ##
 

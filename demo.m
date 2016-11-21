@@ -10,11 +10,11 @@ close all;
 path = '../time_series_data/';
 
 	%% GEE-TSDA
-name_domA = 'gee_tsda/modis_sa_ndvi_8day_2011.txt'; % South America
+%name_domA = 'gee_tsda/modis_sa_ndvi_8day_2011.txt'; % South America
 %name_domA = 'gee_tsda/modis_na_ndvi_8day_2011.txt'; % North America
 %name_domA = 'gee_tsda/modis_eu_ndvi_8day_2003.txt'; % 2003
 %name_domA = 'gee_tsda/landsat_eu_ndvi_8day_2011.txt'; % Lansat
-%name_domA = 'gee_tsda/modis_eu_lai_4day_2011.txt'; % Lai 4day
+name_domA = 'gee_tsda/modis_eu_lai_4day_2011.txt'; % Lai 4day
 name_domB = 'gee_tsda/modis_eu_ndvi_8day_2011.txt'; % 
 
 	%% BELMANIP
